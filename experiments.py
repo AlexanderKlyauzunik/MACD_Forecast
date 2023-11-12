@@ -1,4 +1,5 @@
+import pandas as pd
 
+df = pd.read_csv("LTCUSDT-5m-2021-11.csv")
 
-x = 1.5
-math.ceil(x)
+print(df.head())
