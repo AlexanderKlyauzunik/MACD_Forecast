@@ -1,8 +1,8 @@
 # MACD_Forecast
 Ensemble model(s) for MACD forecast 
 
-# Plan
+# Contents
 
-* Show the result for weak learner
-* Show the result for standart ensemble methods(bagging, stacking, boosting)
-* Try more complex models?
+* The result for weak learner
+* The result for standart ensemble methods(bagging, stacking, boosting)
+* Tried more complex models?
